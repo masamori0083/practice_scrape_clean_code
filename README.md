@@ -1,1 +1,3 @@
-# practice_scrape_clean_code
+# Pythonを使ったスクレイピングコード
+Python Charity Talk　での発表を参考に、classを使った開発に慣れるためにコードを書いた。   
+基本は写経だが、ところどころコメント入れたり解説入れたりする。
